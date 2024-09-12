@@ -13,3 +13,8 @@ int main() {
   printf("The value of x is %d", x); 
 }
 ```
+
+### Adding a task list 
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
